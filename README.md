@@ -1,8 +1,12 @@
-## Hi there 👋
+# Hello there 👋, I'm Elliot Gong
 
+## RIT Game Design Graduate
+
+Focusing in Full Stack Development, 3D Art, Game Development, and UX Design
 <!--
 **TheElliotGong/TheElliotGong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Skills: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
