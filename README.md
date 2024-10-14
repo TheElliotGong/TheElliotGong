@@ -11,12 +11,18 @@ Focusing on: Full Stack Development, 3D Art, Game Development, and UX Design
 
 ## Websites/Applications
 
+**[Changeling VR Official Website](https://www.changelingvr.com/)** - Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
+**[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Created a clone of Netflix using the MERN stack. May be worked on some more in the future. </br>
+**[Color Palette Generator](https://custom-color-palette-generator-3157d50d955c.herokuapp.com/)** - Created a simple color palette generator using Node.js and Webpack. May be converted to use React.js later.
 
+## Games & Levels
+
+**[Douglas Experience](https://www.changelingvr.com/douglas.html)** - Completed development of the Douglas Experience minigame for the Changeling VR official website. </br>
 
 ## 🎨 2D/3D Art
 
-[sketchfab](https://sketchfab.com/Taterblock17)</br>
-[artstation](https://www.artstation.com/elliot_gong)
+**[Sketchfab](https://sketchfab.com/Taterblock17)** </br>
+**[Artstation](https://www.artstation.com/elliot_gong)**
 
 
 <!--
