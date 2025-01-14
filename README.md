@@ -18,11 +18,18 @@ Focusing on: Full Stack Development, 3D Art, Game Development, and UX Design
 ## Games & Levels
 
 **[Douglas Experience](https://www.changelingvr.com/douglas.html)** - Completed development of the Douglas Experience minigame for the Changeling VR official website. </br>
+**[Half Life 2: Combine Prison Escape](https://www.moddb.com/members/og-elgo/downloads/combine-prison-escape-half-life-2)** - Designed and implemented a first-person shooter level set in Half-Life 2. Responsible for all aspects. </br>
+**[Portal 2: Repulsion Gel Trilogy](https://steamcommunity.com/profiles/76561198367702438/myworkshopfiles/?appid=620)** - Designed and created a trilogy of Portal 2 Levels centered around the repulsion gel mechanic. </br>
+
+
 
 ## 🎨 2D/3D Art
 
 **[Sketchfab](https://sketchfab.com/Taterblock17)** </br>
-**[Artstation](https://www.artstation.com/elliot_gong)**
+**[Artstation](https://www.artstation.com/elliot_gong)** </br>
+**[Fab](https://www.fab.com/sellers/Elliot%20Gong)**
+
+## ⚡Fun Facts
 
 
 <!--
