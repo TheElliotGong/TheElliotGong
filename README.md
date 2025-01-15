@@ -31,7 +31,8 @@ Focusing on: Full Stack Development, 3D Art, Game Development, and UX Design
 
 ## ⚡Fun Facts
 
-
+**[I'm a member of the 2019 class of Eagle Scouts]**
+**[I've been to Hong Kong, Korea, China, Canada, and Mexico.]**
 <!--
 **TheElliotGong/TheElliotGong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
