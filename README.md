@@ -3,20 +3,21 @@
 ## Current Computer Science Graduate Student
 ## Game Design Graduate & Communications Minor
 
-Focusing on: Software Engineering, Full Stack Development, 3D Art, Game Development, and UX Design
-
 ## 📋 Skills
-**Programming/Markup/Styling Languages:** Javascript, C#, HTML, Css3, C++, Dart</br>
-**Databases/FTPs/Engines:** Filezilla, Windows SCP, MongoDB, Unity, Unreal</br>
+**Programming/Markup/Styling Languages:** Javascript, Python, C#, HTML, CSS, C++, Dart</br>
+**Databases/Cloud:** MongoDB, Redis, Supabase, MySQL, ElasticSearch/br>
+**FTP:** Filezilla, Windows SCP
+**Networking/Simulation/Cybersecurity:** Cisco Packet Tracer, Wireshark, Nessus Tenable, Snort 
+**Game Engines:** Unity, Unreal Engine, Hammer++, Mcreator, Roblox Studio
+**3D Software:** Maya, Blender, Substance 3D, Zbrush, Tinkercad
 **IDEs:** Visual Studio Code, Visual Studio 2019</br>
 **Project Management/Version Control:** Github, Trello, Jira, Discord</br>
 
 ## Websites/Applications
 
-**[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website based on Los Angeles. </br>
+**[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website tailored for regional cliques, groups, and communities. </br>
 **[Changeling VR Official Website](https://changelingvr.vercel.app/)** - Assistant Senior Developer. Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
 **[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Designer and Developer. Created a clone of Netflix using the MERN stack. May be worked on some more in the future. </br>
-**[Color Palette Generator](https://custom-color-palette-generator-3157d50d955c.herokuapp.com/)** - Designer and Developer. Created a simple color palette generator using Node.js and Webpack. May be converted to use React.js later.
 
 ## Games & Levels
 
@@ -26,8 +27,7 @@ Focusing on: Software Engineering, Full Stack Development, 3D Art, Game Developm
 
 ## UX/UI 
 
-**[Bakery Delivery App and Website](https://www.linkedin.com/pulse/my-first-google-ux-design-certificate-project-elliot-gong-ockgc/?trackingId=jz%2F%2Br2SCRJiCN%2B68NM%2FcHw%3D%3D)** - Designer and Developer. Designed and developed a hypothetical website and mobile app for a bakery as part of my completion of the Google Professional
-Certificate in User Experience Design. </br>
+**[Bakery Delivery App and Website](https://www.linkedin.com/pulse/my-first-google-ux-design-certificate-project-elliot-gong-ockgc/?trackingId=jz%2F%2Br2SCRJiCN%2B68NM%2FcHw%3D%3D)** - Designer and Developer. Designed and developed a hypothetical website and mobile app for a bakery as part of my completion of the Google Professional Certificate in User Experience Design. </br>
 
 ## 🎨 2D/3D Art
 
