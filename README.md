@@ -14,10 +14,10 @@
 **Project Management/Version Control:** Github, Trello, Jira, Discord</br>
 
 ## Websites/Applications
-
+**[Soundstack]([https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0](https://soundstack.onrender.com/))** - Full-Stack Engineer, and UX Designer. Building a personal playlist creator and editor. </br>
 **[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website tailored for regional cliques, groups, and communities. </br>
 **[Changeling VR Official Website](https://changelingvr.vercel.app/)** - Assistant Senior Developer. Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
-**[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Designer and Developer. Created a clone of Netflix using the MERN stack. May be worked on some more in the future. </br>
+**[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Designer and Developer. Developing a clone of Netflix using the MERN stack.</br>
 
 ## Games & Levels
 
