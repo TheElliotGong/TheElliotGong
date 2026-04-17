@@ -1,11 +1,10 @@
-# Hello there 👋, I'm Elliot Gong
+# Hello there 👋, I'm Elliot Gong!
 
 ## Current Computer Science Graduate Student
-## Game Design Graduate & Communications Minor
-
+## Bachelors in Game Design & a Minor in Communications
 ## 📋 Skills
-**Programming/Markup/Styling Languages:** Javascript, Python, C#, HTML, CSS, C++, Dart</br>
-**Databases/Cloud:** MongoDB, Redis, Supabase, MySQL, ElasticSearch/br>
+**Programming/Markup/Styling Languages:** Javascript, TypeScript, Python, C#, HTML, CSS, C++, Dart, Lua</br>
+**Databases/Cloud:** Heroku, CircleCI, Render, MongoDB, Redis, Supabase, MySQL, ElasticSearch/br>
 **FTP:** Filezilla, Windows SCP
 **Networking/Simulation/Cybersecurity:** Cisco Packet Tracer, Wireshark, Nessus Tenable, Snort 
 **Game Engines:** Unity, Unreal Engine, Hammer++, Mcreator, Roblox Studio
@@ -14,7 +13,7 @@
 **Project Management/Version Control:** Github, Trello, Jira, Discord</br>
 
 ## Websites/Applications
-**[Soundstack]([https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0](https://soundstack.onrender.com/))** - Full-Stack Engineer, and UX Designer. Building a personal playlist creator and editor. </br>
+**[Soundstack](https://soundstack.onrender.com/)** - Full-Stack Engineer, and UX Designer. Building a personal playlist creator and editor. </br>
 **[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website tailored for regional cliques, groups, and communities. </br>
 **[Changeling VR Official Website](https://changelingvr.vercel.app/)** - Assistant Senior Developer. Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
 **[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Designer and Developer. Developing a clone of Netflix using the MERN stack.</br>
@@ -39,7 +38,7 @@
 
 **[I'm a member of the 2019 class of Eagle Scouts.]**
 **[I've been to Japan, Hong Kong, Korea, China, Canada, and Mexico.]**
-**[I recently joined a modding team for the game, Mount and Blade II: Bannerlord.]**
+**[I recently joined the Old Realms Modding Team for Mount and Blade II: Bannerlord.]**
 <!--
 **TheElliotGong/TheElliotGong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
