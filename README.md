@@ -1,22 +1,28 @@
 # Hello there 👋, I'm Elliot Gong!
 
-## Current Computer Science Graduate Student
+## Computer Science Graduate Student
 ## Bachelors in Game Design & a Minor in Communications
 ## 📋 Skills
 **Programming/Markup/Styling Languages:** Javascript, TypeScript, Python, C#, HTML, CSS, C++, Dart, Lua</br>
+**AI/Machine Learning:** Genetic Algorithms, Unsupervised Learning, Large Language Models
 **Databases/Cloud:** Heroku, CircleCI, Render, MongoDB, Redis, Supabase, MySQL, ElasticSearch/br>
 **FTP:** Filezilla, Windows SCP
 **Networking/Simulation/Cybersecurity:** Cisco Packet Tracer, Wireshark, Nessus Tenable, Snort 
 **Game Engines:** Unity, Unreal Engine, Hammer++, Mcreator, Roblox Studio
 **3D Software:** Maya, Blender, Substance 3D, Zbrush, Tinkercad
-**IDEs:** Visual Studio Code, Visual Studio 2019</br>
+**IDEs:** Visual Studio Code, Visual Studio 2022/2019</br>
 **Project Management/Version Control:** Github, Trello, Jira, Discord</br>
 
+## AI & Machine Learning
+
+**[Stained Glass Genetic Algorithm]([https://soundstack.onrender.com/](https://github.com/TheElliotGong/Stained-Glass-Genetic-Algorithm))** - Project Manager and Developer. Expanding upon a genetic art algorithm created by Sebastian Proost</br>
+
 ## Websites/Applications
-**[Soundstack](https://soundstack.onrender.com/)** - Full-Stack Engineer, and UX Designer. Building a personal playlist creator and editor. </br>
+
+**[Soundstack](https://soundstack.onrender.com/)** - Full-Stack Engineer and UX Designer. Building a personal playlist creator and editor. </br>
 **[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website tailored for regional cliques, groups, and communities. </br>
 **[Changeling VR Official Website](https://changelingvr.vercel.app/)** - Assistant Senior Developer. Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
-**[Netflix Clone](https://my-netflix-clone-c8b995d374b2.herokuapp.com/)** - Designer and Developer. Developing a clone of Netflix using the MERN stack.</br>
+**[Netflix Clone]([https://my-netflix-clone-c8b995d374b2.herokuapp.com/](https://netflix-clone-tysd.onrender.com/))** - Designer and Developer. Developing a clone of Netflix using the MERN stack.</br>
 
 ## Games & Levels
 
