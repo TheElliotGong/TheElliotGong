@@ -1,62 +1,84 @@
-# Hello there 👋, I'm Elliot Gong!
+## Hi, I'm Elliot 👋
 
-## Computer Science Graduate Student
-## Bachelors in Game Design & a Minor in Communications
-## 📋 Skills
-**Programming/Markup/Styling Languages:** Javascript, TypeScript, Python, C#, HTML, CSS, C++, Dart, Lua</br>
-**AI/Machine Learning:** Genetic Algorithms, Unsupervised Learning, Large Language Models
-**Databases/Cloud:** Heroku, CircleCI, Render, MongoDB, Redis, Supabase, MySQL, ElasticSearch/br>
-**FTP:** Filezilla, Windows SCP
-**Networking/Simulation/Cybersecurity:** Cisco Packet Tracer, Wireshark, Nessus Tenable, Snort 
-**Game Engines:** Unity, Unreal Engine, Hammer++, Mcreator, Roblox Studio
-**3D Software:** Maya, Blender, Substance 3D, Zbrush, Tinkercad
-**IDEs:** Visual Studio Code, Visual Studio 2022/2019</br>
-**Project Management/Version Control:** Github, Trello, Jira, Discord</br>
+**Cross-disciplinary technical builder** — software engineering, IT systems, and AI automation, with a game design and 3D art foundation underneath all of it.
 
-## AI & Machine Learning
+I build technical systems that people actually have to use, and I care about both halves of that sentence. B.S. in Game Design and Development (RIT, *Summa Cum Laude*) → M.S. in Computer Science (Cal State LA, in progress). In between: full-stack web apps, an IT infrastructure consolidation, AI-assisted document automation, and years of 3D asset production. I move comfortably from an architecture diagram to a Blender viewport to explaining a migration plan to the non-technical people who have to sign off on it.
 
-**[Stained Glass Genetic Algorithm]([https://soundstack.onrender.com/](https://github.com/TheElliotGong/Stained-Glass-Genetic-Algorithm))** - Project Manager and Developer. Expanding upon a genetic art algorithm created by Sebastian Proost</br>
+- 🎓 M.S. Computer Science @ Cal State LA — expected May 2027 (B.S. Game Design & Development, RIT, 2024)
+- 💻 Most recently at **Copy Solutions, Inc.** — went in as a CS/IT intern, left running the intern program. Shipped a Cloudflare + Microsoft 365 infrastructure consolidation, an AI/OCR document-automation pipeline, and an AI-powered CRM assistant on Zoho
+- 🧑‍🏫 Teaching programming and game development to 35+ students a week at Code Ninjas
+- 🗡️ Producing 3D assets for an open-source *Mount & Blade II: Bannerlord* total-conversion mod
+- 🌱 Currently deep in applied AI/LLM tooling, agentic workflows, and a genetic-algorithm image optimizer
+- 📫 Reach me at **ewcgong@hotmail.com**
 
-## Websites/Applications
+<br>
 
-**[Soundstack](https://soundstack.onrender.com/)** - Full-Stack Engineer and UX Designer. Building a personal playlist creator and editor. </br>
-**[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000&slide=id.g3553a1cdcdf_0_0)** - Project Manager, Software Engineer, and UX Designer. Led a team of eight to develop a social media website tailored for regional cliques, groups, and communities. </br>
-**[Changeling VR Official Website](https://changelingvr.vercel.app/)** - Assistant Senior Developer. Responsible for designing and developing the landing page, character page, error page, and the Douglas Experience minigame. </br>
-**[Netflix Clone]([https://my-netflix-clone-c8b995d374b2.herokuapp.com/](https://netflix-clone-tysd.onrender.com/))** - Designer and Developer. Developing a clone of Netflix using the MERN stack.</br>
+### Tech I work with
 
-## Games & Levels
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft365&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=flat&logo=autodesk&logoColor=white)
 
-**[Douglas Experience](https://www.changelingvr.com/douglas.html)** - Completed development of the Douglas Experience minigame for the Changeling VR official website. </br>
-**[Half Life 2: Combine Prison Escape](https://www.moddb.com/members/og-elgo/downloads/combine-prison-escape-half-life-2)** - Designed and implemented a first-person shooter level set in Half-Life 2. Responsible for all aspects. </br>
-**[Portal 2: Repulsion Gel Trilogy](https://steamcommunity.com/profiles/76561198367702438/myworkshopfiles/?appid=620)** - Designed and created a trilogy of Portal 2 Levels centered around the repulsion gel mechanic. </br>
+<br>
 
-## UX/UI 
+### Featured projects
 
-**[Bakery Delivery App and Website](https://www.linkedin.com/pulse/my-first-google-ux-design-certificate-project-elliot-gong-ockgc/?trackingId=jz%2F%2Br2SCRJiCN%2B68NM%2FcHw%3D%3D)** - Designer and Developer. Designed and developed a hypothetical website and mobile app for a bakery as part of my completion of the Google Professional Certificate in User Experience Design. </br>
+| Project | What it is | Stack |
+|---|---|---|
+| **[Soundstack](https://theelliotgong.com)** | MERN music-discovery app with JWT auth, bcrypt hashing, protected routes, and personalized playlists | React · TypeScript · Node.js · Express · MongoDB |
+| **[CityMeet](https://theelliotgong.com)** | Regional community platform — led an 8-person team as project lead/scrum master to a 13-week MVP | Next.js · Supabase · Vercel · Figma |
+| **Streaming Media Web App** | Netflix-style app with auth, Redis caching, and CircleCI → Heroku CI/CD, still evolving past the original coursework | MERN · Redis · CircleCI · Heroku |
+| **Project Bridge** *(Copy Solutions, Inc.)* | AI/OCR document-automation pipeline that scans, classifies, and auto-routes PDFs; benchmarked 5 OCR/LLM vision providers for a HIPAA/SOC2-sensitive workload | Python · OCR · LLM Vision APIs |
+| **Stained Glass Genetic Algorithm** | Image-based optimization GA built with a 3-engineer team, extending a published approach with custom preprocessing | Python · Genetic Algorithms |
+| **Web Log Analyzer** | Elasticsearch-based pipeline that parses raw logs into structured, searchable data | Elasticsearch · Data Pipelines |
 
-## 🎨 2D/3D Art
+*(Repo links above point to my portfolio — swap in direct GitHub repo URLs once you confirm which project repos are public.)*
 
-**[Sketchfab](https://sketchfab.com/Taterblock17)** </br>
-**[Artstation](https://www.artstation.com/elliot_gong)** </br>
-**[Fab](https://www.fab.com/sellers/Elliot%20Gong)**
+**On the creative side:** I also produce production-ready 3D assets — most recently for [The Old Realms](https://theelliotgong.com), a *Warhammer Fantasy* total-conversion mod for *Mount & Blade II: Bannerlord*, plus personal work like **Fantasy Kaijus** and **Weapons of Warhammer**. Full gallery on my portfolio.
 
-## ⚡Fun Facts
+<br>
 
-**[I'm a member of the 2019 class of Eagle Scouts.]**
-**[I've been to Japan, Hong Kong, Korea, China, Canada, and Mexico.]**
-**[I recently joined the Old Realms Modding Team for Mount and Blade II: Bannerlord.]**
-<!--
-**TheElliotGong/TheElliotGong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certifications
 
+![Google UX Design](https://img.shields.io/badge/Google-UX%20Design%20Professional%20Cert-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI Academy](https://img.shields.io/badge/OpenAI%20Academy-AI%20Foundations-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic Academy](https://img.shields.io/badge/Anthropic%20Academy-Claude%20API%20%7C%20MCP%20%7C%20AI%20Fluency-D97757?style=flat&logo=anthropic&logoColor=white)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheElliotGong&show_icons=true&count_private=true&theme=default" alt="Elliot's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElliotGong&layout=compact&theme=default" alt="Top languages" height="165"/>
+</p>
+
+<img src="https://streak-stats.demolab.com?user=TheElliotGong&theme=default" alt="GitHub streak stats"/>
+
+*(These widgets only reflect public activity — private/school repos won't count unless you enable `count_private`.)*
+
+<br>
+
+### Let's connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-theelliotgong.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://theelliotgong.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elliotgong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elliotgong)
+[![Email](https://img.shields.io/badge/Email-ewcgong%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ewcgong@hotmail.com)
+
+Based in Los Angeles, CA — open to Software Engineering, Technical/IT Analyst, and AI Automation roles.
+
