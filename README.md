@@ -9,7 +9,7 @@ I build technical systems that people actually have to use, and I care about bot
 - 🧑‍🏫 Teaching programming and game development to 35+ students a week at Code Ninjas
 - 🗡️ Producing 3D assets for an open-source *Mount & Blade II: Bannerlord* total-conversion mod
 - 🌱 Currently deep in applied AI/LLM tooling, agentic workflows, and a genetic-algorithm image optimizer
-- 📫 Reach me at **ewcgong@hotmail.com**
+- 📫 Reach me at **theelliotgong@hotmail.com**
 
 <br>
 
