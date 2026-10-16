@@ -1,15 +1,12 @@
 ## Hi, I'm Elliot 👋
 
-**Cross-disciplinary technical builder** — software engineering, IT systems, and AI automation, with a game design and 3D art foundation underneath all of it.
+I build tools people actually use, then explain them to the people who have to approve them. I'm finishing an M.S. in Computer Science at Cal State LA (expected May 2027), after a B.S. in Game Design and Development from RIT (*Summa Cum Laude*, 2024).
 
-I build technical systems that people actually have to use, and I care about both halves of that sentence. B.S. in Game Design and Development (RIT, *Summa Cum Laude*) → M.S. in Computer Science (Cal State LA, in progress). In between: full-stack web apps, an IT infrastructure consolidation, AI-assisted document automation, and years of 3D asset production. I move comfortably from an architecture diagram to a Blender viewport to explaining a migration plan to the non-technical people who have to sign off on it.
-
-- 🎓 M.S. Computer Science @ Cal State LA — expected May 2027 (B.S. Game Design & Development, RIT, 2024)
-- 💻 Most recently at **Copy Solutions, Inc.** — went in as a CS/IT intern, left running the intern program. Shipped a Cloudflare + Microsoft 365 infrastructure consolidation, an AI/OCR document-automation pipeline, and an AI-powered CRM assistant on Zoho
-- 🧑‍🏫 Teaching programming and game development to 35+ students a week at Code Ninjas
-- 🗡️ Producing 3D assets for an open-source *Mount & Blade II: Bannerlord* total-conversion mod
-- 🌱 Currently deep in applied AI/LLM tooling, agentic workflows, and a genetic-algorithm image optimizer
-- 📫 Reach me at **theelliotgong@hotmail.com**
+- 💻 **Copy Solutions, Inc.** (May–Aug 2026): started as a CS/IT intern and finished as intern program supervisor. Moved three domains onto Cloudflare, migrated 150+ mailboxes from Google Workspace to Microsoft 365 with zero data loss, and built a Python OCR/LLM pipeline that classifies and routes scanned documents
+- 🧑‍🏫 **Code Ninjas**: teaching programming and game development to 35+ students across Unity, JavaScript, and Roblox Studio
+- 🎨 **Before AI tools were part of my workflow:** C# and C++ game projects at RIT, 3D production for game-marketing clients (2022–2024), and a React internship at Changeling VR
+- 🌱 Currently working on an AI-driven M.S. thesis and, on the side, a genetic algorithm that turns photos into stained-glass art
+- 📫 Reach me through my [contact form](https://formsubmit.co/el/waguyo) or a message on [LinkedIn](https://www.linkedin.com/in/elliot-gong/)
 
 <br>
 
@@ -22,9 +19,11 @@ I build technical systems that people actually have to use, and I care about bot
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft365&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -33,52 +32,35 @@ I build technical systems that people actually have to use, and I care about bot
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=flat&logo=autodesk&logoColor=white)
 
+**Certifications:**
+[Google UX Design](https://coursera.org/verify/professional-cert/GU5PCRD5C48B) (Figma, user research, prototyping) ·
+[Google AI Essentials](https://coursera.org/verify/specialization/B4JALGKE9M6K) ·
+[OpenAI Academy: AI Foundations](https://academy.openai.com/public/certificate/na7pungv34) ·
+Anthropic Academy: [Building with the Claude API](https://verify.skilljar.com/c/u33wczhhryom) (Python, LLM APIs), [Claude Code in Action](https://verify.skilljar.com/c/7yn3bxkbcr5g), [Intro to MCP](https://verify.skilljar.com/c/sthpiqv2o4oq), [AI Fluency](https://verify.skilljar.com/c/pmgkcd4ru23y)
+
 <br>
 
 ### Featured projects
 
-| Project | What it is | Stack |
+| Project | What it is and why it mattered | Stack |
 |---|---|---|
-| **[Soundstack](https://theelliotgong.com)** | MERN music-discovery app with JWT auth, bcrypt hashing, protected routes, and personalized playlists | React · TypeScript · Node.js · Express · MongoDB |
-| **[CityMeet](https://theelliotgong.com)** | Regional community platform — led an 8-person team as project lead/scrum master to a 13-week MVP | Next.js · Supabase · Vercel · Figma |
-| **Streaming Media Web App** | Netflix-style app with auth, Redis caching, and CircleCI → Heroku CI/CD, still evolving past the original coursework | MERN · Redis · CircleCI · Heroku |
-| **Project Bridge** *(Copy Solutions, Inc.)* | AI/OCR document-automation pipeline that scans, classifies, and auto-routes PDFs; benchmarked 5 OCR/LLM vision providers for a HIPAA/SOC2-sensitive workload | Python · OCR · LLM Vision APIs |
-| **Stained Glass Genetic Algorithm** | Image-based optimization GA built with a 3-engineer team, extending a published approach with custom preprocessing | Python · Genetic Algorithms |
-| **Web Log Analyzer** | Elasticsearch-based pipeline that parses raw logs into structured, searchable data | Elasticsearch · Data Pipelines |
+| **[Satellite Rideshare Configurator](https://github.com/TheElliotGong/IBM-Bob-Builders-Challenge-Project)** · [live demo](https://ibm-bob-builders-challenge-project.vercel.app) | Built solo in about a week for the IBM AI Builders Challenge (hackathon). Turns a plain-English satellite mission description into ranked launch options with trade-off explanations, replacing a multi-day manual survey of launch providers. Still works without an API key thanks to deterministic fallbacks; 193 Jest tests | Next.js · TypeScript · Gemini API · Jest |
+| **[Stained Glass Genetic Algorithm](https://github.com/TheElliotGong/Stained-Glass-Genetic-Algorithm)** | Started as a 3-person graduate AI course project and now a solo side project. A genetic algorithm that redraws input images as stained-glass art | Python · Genetic Algorithms |
+| **[Soundstack](https://soundstack.onrender.com/)** | MERN music-discovery app with JWT auth, bcrypt hashing, protected routes, and personalized playlists | React · TypeScript · Node.js · Express · MongoDB |
+| **[Streaming Media Web App](https://github.com/TheElliotGong/netflix-clone)** · [live demo](https://netflix-clone-tysd.onrender.com) | Netflix-style app with auth, Redis caching, and CircleCI deployment; I kept building it after the original coursework ended | MERN · Redis · CircleCI · Render |
+| **[CityMeet](https://docs.google.com/presentation/d/e/2PACX-1vQvGK65tVb1UxDsEQFvYlToUhG_fxQUkV5TVwxFQFE3Tm9arf_4STyi7E7iTVoyhRgJVdTWBGuiDx91/pub?start=false&loop=false&delayms=3000)** | Regional community platform. As project lead and scrum master, took an 8-person team to a working MVP in 13 weeks | Next.js · Supabase · Vercel · Figma |
+| **[Elasticsearch Log Analysis](https://github.com/TheElliotGong/ElasticSearch_Aggregations_Demo)** | Five-person team project: pipelines that turn raw web logs into structured, searchable data | Elasticsearch · Node.js |
+| **Project Bridge** *(Copy Solutions, Inc. — private)* | Python OCR/LLM pipeline that classifies and routes scanned documents. Benchmarked 5 OCR and LLM vision providers on cost, accuracy, and HIPAA/SOC 2 compliance at 10K–100K pages per month | Python · OCR · LLM Vision APIs |
 
-*(Repo links above point to my portfolio — swap in direct GitHub repo URLs once you confirm which project repos are public.)*
-
-**On the creative side:** I also produce production-ready 3D assets — most recently for [The Old Realms](https://theelliotgong.com), a *Warhammer Fantasy* total-conversion mod for *Mount & Blade II: Bannerlord*, plus personal work like **Fantasy Kaijus** and **Weapons of Warhammer**. Full gallery on my portfolio.
-
-<br>
-
-### Certifications
-
-![Google UX Design](https://img.shields.io/badge/Google-UX%20Design%20Professional%20Cert-4285F4?style=flat&logo=google&logoColor=white)
-![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI Academy](https://img.shields.io/badge/OpenAI%20Academy-AI%20Foundations-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic Academy](https://img.shields.io/badge/Anthropic%20Academy-Claude%20API%20%7C%20MCP%20%7C%20AI%20Fluency-D97757?style=flat&logo=anthropic&logoColor=white)
+**3D and game art:** production assets for [The Old Realms](https://www.artstation.com/elliot_gong), a *Warhammer Fantasy* total-conversion mod for *Mount & Blade II: Bannerlord* (2025–2026), plus personal series like [Fantasy Kaijus](https://www.artstation.com/elliot_gong/albums/13953874) and [Weapons of Warhammer](https://www.artstation.com/elliot_gong/albums/14496343).
 
 <br>
 
-### GitHub stats
+### Find me elsewhere
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheElliotGong&show_icons=true&count_private=true&theme=default" alt="Elliot's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElliotGong&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-theelliotgong.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://theelliotgong.com) Case studies and full project write-ups<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elliot--gong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elliot-gong/) Work history and recommendations<br>
+[![ArtStation](https://img.shields.io/badge/ArtStation-elliot__gong-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/elliot_gong) 3D models and renders<br>
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-ElliotGong-1CAAD9?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/ElliotGong) Interactive 3D viewer
 
-<img src="https://streak-stats.demolab.com?user=TheElliotGong&theme=default" alt="GitHub streak stats"/>
-
-*(These widgets only reflect public activity — private/school repos won't count unless you enable `count_private`.)*
-
-<br>
-
-### Let's connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-theelliotgong.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://theelliotgong.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elliotgong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elliotgong)
-[![Email](https://img.shields.io/badge/Email-ewcgong%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ewcgong@hotmail.com)
-
-Based in Los Angeles, CA — open to Software Engineering, Technical/IT Analyst, and AI Automation roles.
-
+Based in Los Angeles, CA; open to New York City and remote. Looking for Technical Analyst, Software Engineering, and AI automation roles.
